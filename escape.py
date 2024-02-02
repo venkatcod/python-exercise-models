@@ -1,0 +1,1 @@
+print("hello\t   rec students\n hello staya\t")
